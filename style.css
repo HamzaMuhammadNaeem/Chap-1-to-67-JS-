@@ -1,0 +1,37 @@
+        /* Chapter # 53 to 58 */
+
+
+/* Task-5 */
+
+
+body {
+    flex-wrap: wrap;
+    background-image: url(background.jpg);
+    background-size: 100%;
+    text-align: center;
+    padding: 100px;
+}
+
+
+h1 {
+    color: rgb(212,175,55);
+    display: inline-block;
+    width: 300px;
+    background-color: black;
+    border-radius: 15px;
+    text-align: center;
+    opacity: 0.8;
+    font-family: fantasy;
+    font-weight: lighter;
+    box-shadow:rgb(212,175,55) 0px 0px 30px;
+}
+
+
+button {
+    
+    background-color: moccasin;
+    border-radius: 10%;
+    width: 100px;
+    height: 30px;color: rgb(53,44,14);
+    font-weight: 700;
+}
